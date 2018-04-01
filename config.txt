@@ -4,5 +4,4 @@
 	process = git-lfs filter-process
 	required = true
 [user]
-	name = Kristinaausen
-	email = 36761455+Kristinaausen@users.noreply.github.com
+	name = 	email = 36761455+Kristinaausen@users.noreply.github.com
